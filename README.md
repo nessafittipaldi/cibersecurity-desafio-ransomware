@@ -2,22 +2,22 @@
 Projeto do Santander Bootcamp Cibersegurança
 
 # Instruções
-• Neste desafio criamos o código para criptografar e descriptografar um arquivo texto.
-• O código "encrypter.py" irá criptografar
-• O código "decrypter.py" irá descriptografar
+- Neste desafio criamos o código para criptografar e descriptografar um arquivo texto.
+- O código "encrypter.py" irá criptografar.
+- O código "decrypter.py" irá descriptografar
 
 # Resultados
-- O conteúdo a ser criptografado
-![conteudo](./conteúdo.png)
+1. O conteúdo a ser criptografado
+![conteudo](/assets/conteúdo.png)
 
-- Criptografando
-![encrypter](./encrypter.png)
+2. Criptografando
+![encrypter](/assets/encrypter.png)
 
-- Resultado da criptografia
-![conteudo](./encrypt.png)
+3. Resultado da criptografia
+![resultado](/assets/encrypt.png)
 
-- Descriptografando
-![cecrypter](./decrypter.png)
+4. Descriptografando
+![decrypter](/assets/decrypter.png)
 
 
 # Considerações
