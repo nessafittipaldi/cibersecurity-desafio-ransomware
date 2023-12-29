@@ -1,5 +1,5 @@
 # Desafio Ransomware
-Projeto do Santander Bootcamp Cibersegurança
+Projeto do Santander Bootcamp Cibersegurança para fins didáticos
 
 # Instruções
 - Neste desafio criamos o código para criptografar e descriptografar um arquivo texto.
