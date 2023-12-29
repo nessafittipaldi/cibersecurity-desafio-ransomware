@@ -8,16 +8,16 @@ Projeto do Santander Bootcamp Cibersegurança
 
 # Resultados
 1. O conteúdo a ser criptografado
-![conteudo](/assets/conteúdo.png)
+![conteudo](/img/conteúdo.png)
 
 2. Criptografando
-![encrypter](/assets/encrypter.png)
+![encrypter](/img/encrypter.png)
 
 3. Resultado da criptografia
-![resultado](/assets/encrypt.png)
+![resultado](/img/encrypt.png)
 
 4. Descriptografando
-![decrypter](/assets/decrypter.png)
+![decrypter](/img/decrypter.png)
 
 
 # Considerações
