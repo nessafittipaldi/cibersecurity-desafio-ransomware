@@ -7,16 +7,16 @@ Projeto do Santander Bootcamp Cibersegurança
 • O código "decrypter.py" irá descriptografar
 
 # Resultados
-• O conteúdo a ser criptografado
+- O conteúdo a ser criptografado
 ![conteudo](./conteúdo.png)
 
-• Criptografando
+- Criptografando
 ![encrypter](./encrypter.png)
 
-• Resultado da criptografia
+- Resultado da criptografia
 ![conteudo](./encrypt.png)
 
-• Descriptografando
+- Descriptografando
 ![cecrypter](./decrypter.png)
 
 
